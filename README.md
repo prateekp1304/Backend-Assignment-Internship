@@ -2,12 +2,12 @@
 
 Screenshots of working:
 
-![working ss](<Screenshot (175).png>)
+![working ss](<working screenshots/Screenshot (175).png>)
 
-![mongodb database ss](<Screenshot (171).png>)
+![mongodb database](<working screenshots/Screenshot (171).png>)
 
-![working ss](<Screenshot (176).png>)
+![working ss](<working screenshots/Screenshot (176).png>)
 
-![working ss](<Screenshot (177).png>)
+![working ss](<working screenshots/Screenshot (177).png>)
 
-![working ss](<Screenshot (178).png>)
+![working ss](<working screenshots/Screenshot (178).png>)
